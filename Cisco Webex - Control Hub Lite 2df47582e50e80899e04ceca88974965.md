@@ -7,7 +7,7 @@ Skills: Competitive Analysis, High-Fidelity Mockups, Iterative Prototyping, Prod
 Platform: Desktop Web
 Tools: Figma
 
-![Cover Image](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_03.png)
+![Cover Image](https://framerusercontent.com/images/I9o0YUnXa38Lv9lSCyQQEv3Sohk.png)
 
 ## Overview
 
@@ -15,7 +15,7 @@ Tools: Figma
 
 Control Hub Lite is a redesign of Webex’s existing Control Hub admin web management portal which, as new features were added, became cumbersome to use over time. In addition to selling software subscription plans, Webex also sells videoconferencing hardware devices and has a business goal of increasing hardware sales overall. This project aims to reevaluate content strategy for Control Hub Lite to streamline core admin features, and increase visibility and sales of Webex hardware devices.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_05.png)
+![](https://framerusercontent.com/images/ZTArMTLP3I9dGbgVZUbVERPjWw.png)
 
 *Original Cisco Webex Control Hub web management portal*
 
@@ -41,7 +41,7 @@ Some of the following assumptions were made in developing these personas:
 - All users used in our research are pre-existing customers that are already familiar with Webex video calling
 - “Remote Worker” is defined as any worker that does not work from a given office (works from home, on the go, global workers, etc.). From a hardware perspective, these users have similar needs and thus have similar considerations moving forward
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_07.png)
+![](https://framerusercontent.com/images/dc8CZKUUBrRuu00mh2Xf9804CKY.png)
 
 ### Opportunities
 
@@ -58,7 +58,7 @@ From the data, I took users’ pain points and reframed them as design opportuni
 
 With these goals and insights in mind, I looked at other sites and products to help brainstorm more ideas.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_10.png)
+![](https://framerusercontent.com/images/tIE8xW8BciG7G3GKd3ZSTpEYmPk.png)
 
 From left to right, top to bottom:
 
@@ -73,7 +73,7 @@ From left to right, top to bottom:
 
 Given the constraints, I decided that designing a homepage carousel would be a good option to explore, since it gives an opportunity to address one to two specific persona needs per panel. The bottom half of the homepage would be focused on billing and would stay static.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_02.png)
+![](https://framerusercontent.com/images/EZI6lflOTGOwTyXig3sF9PMrBOk.png)
 
 **Upsell
 **(Top half) Free trial for subscription to invite people to experience true value of subscription upgrade
@@ -85,7 +85,7 @@ Given the constraints, I decided that designing a homepage carousel would be a g
 - *Hardware - Gallery
 **Image-centric display of hardware products to encourage upsell
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_01.png)
+![](https://framerusercontent.com/images/1TVqmQnaQPhqGPttTlRQC1ANJTA.png)
 
 **Hardware - Current Config
 **(Left) Existing pool of devices
@@ -101,7 +101,7 @@ Easy way to update software and see new features, to address secondary goal
 
 Using feedback from the sketches, I created wireframes to further actualize the design. Most notably, each carousel frame was distilled to have only one major CTA, and concerns were separated between addressing hardware and software goals.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_06.png)
+![](https://framerusercontent.com/images/axyNOs6KxMxE5WECTYrQqDf5CA8.png)
 
 **Plans & Pricing**
 
@@ -130,7 +130,7 @@ The next step was to generate mockups based on feedback from the wireframes. The
 - Overall, copy messaging needs to be more energetic, engaging, and have a more colloquial tone.
 - For Webex hardware, emphasize quality of experience for remote collaboration and life-like video conferencing.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_04.gif)
+![](https://framerusercontent.com/images/PL9ktbNlTig2leEda2hyvrGC8U.gif)
 
 **Hardware Collaboration **
 Visually emphasize collaboration in different contexts, aimed towards IT directors and business executives
@@ -150,12 +150,12 @@ The first two testimonials are targeted towards remote workers and business exec
 
 One of the main points of feedback was that a few of the panels were too technical; as a result, I decided not to include some mockup panels in the final design, since they did not directly serve the ultimate goal for the majority of our target audience.
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_09.png)
+![](https://framerusercontent.com/images/qZtZqnYV9kmHLofEMB7ENoOgNA.png)
 
 **Current Setup **
 This panel was ruled out because it is not relevant information for a homepage since it is too niche, technical, and detailed, even for IT directors
 
-![](https://cdn.jsdelivr.net/gh/pwebsite/portfolio_images@main/cisco/cisco_08.png)
+![](https://framerusercontent.com/images/ilk9BhCVrfoXsMalJ2XhuilTfMc.png)
 
 **Analytics**
 
